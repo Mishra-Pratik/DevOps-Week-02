@@ -49,3 +49,7 @@ Both branches contain separate changes and were merged into the main branch.
 ## Author
 
 Pratik Mishra
+
+## Documentation Update
+
+This branch demonstrates the Pull Request workflow in GitHub.
